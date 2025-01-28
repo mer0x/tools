@@ -1,0 +1,1 @@
+import{d as a,u as e,o as n,c as s,_ as c}from"./index-f857f4b3.js";const p=a({__name:"About",setup(m){return e({title:"Merox - IT Tools"}),(o,r)=>{const t=c;return n(),s(t,{markdown:o.$t("about.content"),"mx-auto":"","mt-50px":"","max-w-600px":""},null,8,["markdown"])}}});export{p as default};
