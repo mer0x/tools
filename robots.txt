@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tools.merox.dev/sitemap.xml
